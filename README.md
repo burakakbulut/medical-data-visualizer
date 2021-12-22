@@ -23,3 +23,5 @@ Aşağıdaki soruları Pandas, Matplotlib ve Seaborn kütüphanelerini kullanara
   - weight değeri %97.5 dilime sahip olanları
 - Veri setini kullanarak korelasyon matrisi oluşturun. Seaborn kütüphanesinden heatmap()’i kullaranarak korelasyon grafiği oluşturun. Grafikte üst üçgeni maskeleyin.
 
+![heatmap](https://user-images.githubusercontent.com/34520028/147152799-3c26a670-12db-44cc-92bc-d70f32de9e56.png)
+
